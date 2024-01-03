@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav{
+    background-color: rgb(79, 90, 77);
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+    justify-content: center; 
+}
+.nav a{
+    padding: 20px;
+    margin: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+}
+h1{
+    color: white;
+}
+.body{
+  background: rgb(203, 197, 197);
+}
+.container{
+    overflow: hidden;
+}
+.slider{
+    display: flex;
+    width: 200vw;
+}
+img{
+    border-radius: 20%;
+    margin: 20px;
+    width: 300px;
+    height: 200px;
+    border: solid 2px black;
+    
+}
+.card{
+    background: white;
+    width: 700px;
+    height: 700px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 10px; 
+
+}
+#shoues{
+  
+   width: 900px;
+}
+#shoues p{
+    margin-left: 400px;
+    margin-top: -20px;
+}
+#Clothes{
+    border: solid 1px black;
+}
+.btn{
+    background-color: rgb(87, 96, 87);
+    color: white;
+    width: 100px;
+    height: 20px; 
+    margin-left: 400px;
+}
+span{
+    margin-top: 50;
+    padding : 20px;
+    top: 50px;
+    margin-left: 600px;
+    font-size: 50px;
+}
+.bitt{
+    background-color: rgb(87, 96, 87);
+    color: white;
+    width: 100px;
+    height: 20px; 
+    margin-left: 50px;
+
+
+}
+#Summary{
+    background: white;
+    width: 500px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+#Summary h2{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.spa{
+    margin-top: 10;
+    padding: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+h4{
+    margin-left: 10px;
+    padding: 20px;
+    text-align: center;
+}
+h5{
+   font-size: 20px;
+   margin-left: 30px;
+    padding: 30px;
+}
+#bonn{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 20px;
+    color: white;
+    background-color: black;
+    margin-left: 100px;
+}
+input{
+    width: 40px;
+    margin-left: 10px;
+}
+#inp{
+    width: 40px;
+    margin-left: 80px;
+
+}
+#Summary input{
+    width: 200px;
+    text-align: center;
+    margin-left: 30%;
+}
